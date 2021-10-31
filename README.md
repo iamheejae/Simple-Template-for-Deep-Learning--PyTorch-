@@ -1,2 +1,2 @@
-# Simple-Template-for-Deep-Learning-Network-Pytorch-Tensorboard
+# Simple-Template-for-DNN-Pytorch
 Template for deep learning network using pytorch
